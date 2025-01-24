@@ -1,6 +1,6 @@
 function opengame() {
 	var win = window.open()   
-	var url = "https://playervpn.github.io/playervpn-game/" 
+	var url = "https://are-u-questioning-my-studying-methods-atessex-perhaps.vercel.app" 
 	var iframe = win.document.createElement('iframe')
 	iframe.style.width = "100%";
 	iframe.style.height = "100%";
